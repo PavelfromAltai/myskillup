@@ -30,11 +30,6 @@
 					<img src="img/html.jpg" width="300px" height="200px">
 				</li>
 			</ul>
-	<!--		<ul class="slider__nav">
-				<li class="slide__nav active"></li>
-				<li class="slide__nav"></li>
-				<li class="slide__nav"></li>
-			</ul>-->
 			<a href="#" class="arrow-next"></a>
 		</div>
 		<script src="https://yastatic.net/jquery/3.3.1/jquery.min.js"></script>

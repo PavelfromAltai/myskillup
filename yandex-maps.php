@@ -9,10 +9,7 @@
 
 		<header>
 			<h1>Задание "JS и JQUERY". Яндекс Карта<h1>
-			<a class="on-index" href="index.php"> На главную</a>
-
-		
-		
+			<a class="on-index" href="index.php"> На главную</a>	
 		</header>
 		
 		<div id="map" class="contacts__map">
